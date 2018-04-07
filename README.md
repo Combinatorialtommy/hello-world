@@ -1,2 +1,2 @@
 # hello-world
-first project
+today is April 7th 2018. 
